@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+/* div{
+    background-color: aqua;
+} */
+.container{
+    background-color: azure;
+    height: 500px;
+    border: 2px solid red;
+    /* margin-top: 100px; */
+}
+/* .child1{
+    background-color: brown;
+    color: white;
+    border: 2px solid blue;
+    height: 300px;
+    width: 300px;
+    margin-left: 300px;
+    /* padding: 50px; */
+    /* padding: 100px 50px 40px; 
+    box-sizing: border-box;
+} */
+ div> p{
+    background-color: yellow;
+ }
