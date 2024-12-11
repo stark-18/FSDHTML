@@ -1,0 +1,12 @@
+.container{
+    background-color: antiquewhite;
+    height: 600px;
+    width: 600px;
+    border: 4px solid green;
+    margin-left: 200px;
+}
+/* .imgdiv{
+    border: ipx solid red;
+    height: 100px;
+    width: 100px;
+} */

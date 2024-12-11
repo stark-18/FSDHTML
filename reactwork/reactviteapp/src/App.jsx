@@ -1,5 +1,7 @@
 import React from 'react'
 import Student from './Student'
+import StateHandling from './StateHandling'
+import ImageManipulation from './ImageManipulation'
 
 function App() {
   return (
@@ -8,8 +10,12 @@ function App() {
         <h2 style={{color:'red'}} >hello react js
         </h2>
         <div>
-          <Student image={<img src='https://cdn.dummyjson.com/recipe-images/7.webp'/>} name="Rahul Kumar" roll="1234" college="abes"/>
+          <ImageManipulation />
         </div>
+        {/* <div>
+          <Student image={<img src='https://cdn.dummyjson.com/recipe-images/7.webp'/>} name="Rahul Kumar" roll="1234" college="abes"/>
+        </div> */}
+        
       </div>
     </div>
   )
